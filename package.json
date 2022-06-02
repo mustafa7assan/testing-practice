@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch *.js --coverage"
+    "watch": "jest --watch *.js "
   },
   "repository": {
     "type": "git",
