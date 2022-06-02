@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa7assan/testing-practice.git"
+  },
+  "author": "Mustafa Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa7assan/testing-practice/issues"
+  },
+  "homepage": "https://github.com/mustafa7assan/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^28.1.0"
+  }
+}
